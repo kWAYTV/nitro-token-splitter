@@ -1,0 +1,4 @@
+# if the token has x amount or more servers it saves the token to a different file
+amount = 1
+# number of vps's to split the tokens
+vps_count = 6
