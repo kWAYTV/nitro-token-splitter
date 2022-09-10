@@ -3,14 +3,14 @@ import httpx, toml, os, time, colorama, pystyle, paramiko
 from colorama import Fore, init, Style
 from pystyle import *
 
-# Clear the console
-clear = lambda: os.system("cls" if os.name in ("nt", "dos") else "clear")
-uploadCount = -1
-tokenCount = 0
-filled = 0
-empty = 0
-error = 0
-scriptDir = os.getcwd()
+#Don't touch this
+clear = lambda: os.system("cls" if os.name in ("nt", "dos") else "clear") #Don't touch this
+uploadCount = -1 #Don't touch this
+tokenCount = 0 #Don't touch this
+filled = 0 #Don't touch this
+empty = 0 #Don't touch this
+error = 0 #Don't touch this
+scriptDir = os.getcwd() #Don't touch this
 
 # Vanity Generator Logo
 logo = """
