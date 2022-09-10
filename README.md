@@ -1,4 +1,4 @@
-# token-splitter
+# Nitro Token Splitter
  Simple token splitter for Discord nitro snipers.
 # Links
 [Discord](https://discord.gg/kws)<br />
